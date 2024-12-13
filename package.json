@@ -1,6 +1,6 @@
 {
   "name": "log-it-express",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple middleware for logging HTTP requests in Express.js",
   "main": "index.js",
   "scripts": {
